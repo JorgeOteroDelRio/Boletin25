@@ -19,6 +19,8 @@ public class Boletin25 {
         prueba.setVisible(true);
         Ejercicio2 prueba2 = new Ejercicio2();
         prueba2.setVisible(true);
+        Ejercicio3 prueba3 = new Ejercicio3("Ejercicio 3");
+        Ejercicio4 prueba4 = new Ejercicio4("Ejercicio 4");
     }
     
 }

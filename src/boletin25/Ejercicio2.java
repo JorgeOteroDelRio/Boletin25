@@ -4,8 +4,6 @@
  * and open the template in the editor.
  */
 package boletin25;
-import java.awt.FlowLayout;
-import java.awt.LayoutManager;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
